@@ -1,0 +1,88 @@
+{
+  "versao": "validacao",
+  "processadas": 10,
+  "falhas": [],
+  "acertos": 10,
+  "resultados": [
+    {
+      "n": 1,
+      "texto": "Sou a Paula, faço marmitas e preciso de 3 mil pra comprar um freezer",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 2,
+      "texto": "Meu financiamento pode ser renegociado? Estou com a parcela atrasada",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 3,
+      "texto": "O código que vocês mandaram por SMS não chega",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 4,
+      "texto": "Fiz o upload do comprovante mas o sistema diz que o arquivo é inválido",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 5,
+      "texto": "Tem algum curso pra aprender a usar planilha no controle do estoque?",
+      "esperado": "capacitacao",
+      "obtido": "capacitacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 6,
+      "texto": "Como me inscrevo na mentoria para pequenos negócios?",
+      "esperado": "capacitacao",
+      "obtido": "capacitacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 7,
+      "texto": "Vocês me cobraram duas vezes e ninguém responde, que falta de respeito!",
+      "esperado": "reclamacao",
+      "obtido": "reclamacao",
+      "confianca": 0.98,
+      "acertou": true
+    },
+    {
+      "n": 8,
+      "texto": "Prometeram retorno em 48h e já faz uma semana, vou denunciar",
+      "esperado": "reclamacao",
+      "obtido": "reclamacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 9,
+      "texto": "Onde fica o escritório de vocês?",
+      "esperado": "outro",
+      "obtido": "outro",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 10,
+      "texto": "Obrigada pela ajuda de ontem, deu tudo certo",
+      "esperado": "outro",
+      "obtido": "outro",
+      "confianca": 1.0,
+      "acertou": true
+    }
+  ]
+}

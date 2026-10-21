@@ -1,0 +1,36 @@
+[
+  {"texto": "Oi, queria saber como faço pra pedir um microcrédito pro meu salão", "esperado": "credito"},
+  {"texto": "Preciso de 8 mil reais urgente pra comprar mercadoria, sou a Joana e vendo roupa", "esperado": "credito"},
+  {"texto": "Qual a taxa de juros do empréstimo pra MEI?", "esperado": "credito"},
+  {"texto": "Posso antecipar o pagamento das parcelas do meu crédito?", "esperado": "credito"},
+  {"texto": "Meu crédito foi aprovado mas o dinheiro não caiu ainda, já faz 3 dias!!", "esperado": "credito"},
+  {"texto": "Quais documentos preciso pra solicitar crédito sendo autônomo?", "esperado": "credito"},
+  {"texto": "Sou o Carlos, tenho uma oficina e preciso de R$ 15 mil pra comprar um elevador", "esperado": "credito"},
+  {"texto": "Dá pra aumentar o limite do meu crédito atual?", "esperado": "credito"},
+
+  {"texto": "Meu boleto não chegou no e-mail", "esperado": "suporte"},
+  {"texto": "Não consigo entrar na minha conta, aparece senha inválida", "esperado": "suporte"},
+  {"texto": "O app trava quando eu tento enviar meus documentos", "esperado": "suporte"},
+  {"texto": "Como atualizo meu endereço no cadastro?", "esperado": "suporte"},
+  {"texto": "Paguei a parcela ontem mas continua aparecendo em aberto", "esperado": "suporte"},
+  {"texto": "Preciso da segunda via do meu contrato", "esperado": "suporte"},
+  {"texto": "o link de pagamento deu erro 404", "esperado": "suporte"},
+  {"texto": "Troquei de número, como atualizo o telefone?", "esperado": "suporte"},
+
+  {"texto": "Como faço o curso de educação financeira?", "esperado": "capacitacao"},
+  {"texto": "Vocês têm curso de como precificar produtos?", "esperado": "capacitacao"},
+  {"texto": "O curso é gratuito? Tem certificado?", "esperado": "capacitacao"},
+  {"texto": "Queria aprender a organizar o fluxo de caixa da minha padaria", "esperado": "capacitacao"},
+  {"texto": "Tem aula sobre vendas pelo Instagram?", "esperado": "capacitacao"},
+  {"texto": "Não consigo acessar as aulas da plataforma de cursos", "esperado": "capacitacao"},
+  {"texto": "Quanto tempo dura a trilha de empreendedorismo?", "esperado": "capacitacao"},
+
+  {"texto": "Absurdo! Cobraram uma taxa que ninguém me avisou, quero explicação agora", "esperado": "reclamacao"},
+  {"texto": "Já é a terceira vez que ligo e ninguém resolve meu problema", "esperado": "reclamacao"},
+  {"texto": "Atendimento péssimo, fui tratado com descaso", "esperado": "reclamacao"},
+  {"texto": "Meu nome foi negativado por engano e ninguém me ajuda, vou procurar meus direitos", "esperado": "reclamacao"},
+  {"texto": "Demoraram 15 dias pra responder, inaceitável", "esperado": "reclamacao"},
+
+  {"texto": "Vocês trabalham aos sábados?", "esperado": "outro"},
+  {"texto": "bom dia", "esperado": "outro"}
+]

@@ -1,0 +1,248 @@
+{
+  "versao": "v2",
+  "processadas": 30,
+  "falhas": [],
+  "acertos": 29,
+  "resultados": [
+    {
+      "n": 1,
+      "texto": "Oi, queria saber como faço pra pedir um microcrédito pro meu salão",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 2,
+      "texto": "Preciso de 8 mil reais urgente pra comprar mercadoria, sou a Joana e vendo roupa",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 3,
+      "texto": "Qual a taxa de juros do empréstimo pra MEI?",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 4,
+      "texto": "Posso antecipar o pagamento das parcelas do meu crédito?",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 0.95,
+      "acertou": true
+    },
+    {
+      "n": 5,
+      "texto": "Meu crédito foi aprovado mas o dinheiro não caiu ainda, já faz 3 dias!!",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 0.98,
+      "acertou": true
+    },
+    {
+      "n": 6,
+      "texto": "Quais documentos preciso pra solicitar crédito sendo autônomo?",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 7,
+      "texto": "Sou o Carlos, tenho uma oficina e preciso de R$ 15 mil pra comprar um elevador",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 8,
+      "texto": "Dá pra aumentar o limite do meu crédito atual?",
+      "esperado": "credito",
+      "obtido": "credito",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 9,
+      "texto": "Meu boleto não chegou no e-mail",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 10,
+      "texto": "Não consigo entrar na minha conta, aparece senha inválida",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 11,
+      "texto": "O app trava quando eu tento enviar meus documentos",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 12,
+      "texto": "Como atualizo meu endereço no cadastro?",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 13,
+      "texto": "Paguei a parcela ontem mas continua aparecendo em aberto",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 14,
+      "texto": "Preciso da segunda via do meu contrato",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 15,
+      "texto": "o link de pagamento deu erro 404",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 16,
+      "texto": "Troquei de número, como atualizo o telefone?",
+      "esperado": "suporte",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 17,
+      "texto": "Como faço o curso de educação financeira?",
+      "esperado": "capacitacao",
+      "obtido": "capacitacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 18,
+      "texto": "Vocês têm curso de como precificar produtos?",
+      "esperado": "capacitacao",
+      "obtido": "capacitacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 19,
+      "texto": "O curso é gratuito? Tem certificado?",
+      "esperado": "capacitacao",
+      "obtido": "capacitacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 20,
+      "texto": "Queria aprender a organizar o fluxo de caixa da minha padaria",
+      "esperado": "capacitacao",
+      "obtido": "capacitacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 21,
+      "texto": "Tem aula sobre vendas pelo Instagram?",
+      "esperado": "capacitacao",
+      "obtido": "capacitacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 22,
+      "texto": "Não consigo acessar as aulas da plataforma de cursos",
+      "esperado": "capacitacao",
+      "obtido": "suporte",
+      "confianca": 1.0,
+      "acertou": false
+    },
+    {
+      "n": 23,
+      "texto": "Quanto tempo dura a trilha de empreendedorismo?",
+      "esperado": "capacitacao",
+      "obtido": "capacitacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 24,
+      "texto": "Absurdo! Cobraram uma taxa que ninguém me avisou, quero explicação agora",
+      "esperado": "reclamacao",
+      "obtido": "reclamacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 25,
+      "texto": "Já é a terceira vez que ligo e ninguém resolve meu problema",
+      "esperado": "reclamacao",
+      "obtido": "reclamacao",
+      "confianca": 0.98,
+      "acertou": true
+    },
+    {
+      "n": 26,
+      "texto": "Atendimento péssimo, fui tratado com descaso",
+      "esperado": "reclamacao",
+      "obtido": "reclamacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 27,
+      "texto": "Meu nome foi negativado por engano e ninguém me ajuda, vou procurar meus direitos",
+      "esperado": "reclamacao",
+      "obtido": "reclamacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 28,
+      "texto": "Demoraram 15 dias pra responder, inaceitável",
+      "esperado": "reclamacao",
+      "obtido": "reclamacao",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 29,
+      "texto": "Vocês trabalham aos sábados?",
+      "esperado": "outro",
+      "obtido": "outro",
+      "confianca": 1.0,
+      "acertou": true
+    },
+    {
+      "n": 30,
+      "texto": "bom dia",
+      "esperado": "outro",
+      "obtido": "outro",
+      "confianca": 1.0,
+      "acertou": true
+    }
+  ]
+}
